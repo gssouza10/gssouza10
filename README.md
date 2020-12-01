@@ -4,17 +4,17 @@
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=gssouza10.gssouza10" alt="Visitas"></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-souza-01b7694b/">
-    <img align="left" alt="LinkdeIn do Gustavo Souza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />
+  <a href="https://www.linkedin.com/in/gustavo-souza-01b7694b/" target="_blank">
+    <img align="left" alt="LinkdeIn do Gustavo Souza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
-  <a href="https://www.instagram.com/gs_souza10/">
-    <img align="left" alt="Instagram do Gustavo Souza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />
+  <a href="https://www.instagram.com/gs_souza10/" target="_blank">
+    <img align="left" alt="Instagram do Gustavo Souza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
   </a>
-  <a href="https://www.facebook.com/guhsouza10/">
-    <img align="left" alt="Facebook do Gustavo Souza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" target="_blank"/>
+  <a href="https://www.facebook.com/guhsouza10/" target="_blank">
+    <img align="left" alt="Facebook do Gustavo Souza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
   </a>
   <a href="mailto:gsgsouza8@gmail.com">
-    <img align="left" alt="Gmail do Gustavo Souza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" alt="Gmail do Gustavo Souza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
   </a>
 </p>
 
