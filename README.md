@@ -1,7 +1,7 @@
 # Olá, seja bem vindo!😄
 
-Generation Brasil - Desenvolvedor Java Jr. Full Stack 💻
-FATEC - Sistemas para Internet 💻
+- Generation Brasil - Desenvolvedor Java Jr. Full Stack 💻
+- FATEC - Sistemas para Internet 💻
 
 ### Sobre mim
 - 👨🏻 Tenho 18 anos
