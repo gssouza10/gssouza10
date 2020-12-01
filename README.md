@@ -3,7 +3,7 @@
 Generation Brasil - Desenvolvedor Java Jr. Full Stack 💻
 FATEC - Sistemas para Internet 💻
 
-##Sobre mim
+### Sobre mim
 - 👨🏻 Tenho 18 anos
 - 🌎 Moro em Araçariguama-SP
 - 👨🏻‍💻 Dispertei paixão por programação aos 12 anos de idade
