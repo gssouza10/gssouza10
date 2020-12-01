@@ -11,5 +11,6 @@ FATEC - Sistemas para Internet 💻
 - ⚽️ Amo futebol
 - 🏃🏻 Pratico corrida
 - 📖 Leio livros de desenvolvimento
-- 📚 Estou sempre buscando adquirir conhecimento
 - 💬 Sou comunicativo
+- 📚 Estou sempre buscando adquirir conhecimento
+
